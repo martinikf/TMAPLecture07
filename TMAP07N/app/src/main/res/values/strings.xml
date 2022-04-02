@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TMAP07n</string>
+    <string name="Title_label">Title</string>
+    <string name="Primary_label">Primary</string>
+    <string name="Hidden_label">Hidden</string>
+    <string name="Arr">Arr</string>
+    <string name="Archive">Archive</string>
+
+    <string name="HintTitle">Title</string>
+    <string name="HintPrimary">Primary text</string>
+    <string name="HintHidden">Hidden text</string>
+    <string name="ShowArchived">Show archived notes</string>
+
+    <string name="Add">Add</string>
+    <string name="Delete">Delete</string>
+    <string name="Save">Save</string>
+    <string name="AddNewNote">Add new note</string>
+    <string name="List">List</string>
+
+</resources>
